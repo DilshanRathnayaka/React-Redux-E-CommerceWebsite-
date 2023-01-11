@@ -1,0 +1,162 @@
+.cart-container {
+    position: relative;
+    text-align: center;
+    padding-top: 5rem;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    width: 1000px;
+}
+
+.start {
+    padding-right: 0.5rem;
+    font-size: 2rem;
+    text-decoration: none;
+    color: rgb(121, 121, 121);
+}
+
+.fa-solid {
+    padding-left: 1rem;
+}
+
+.main {
+    display: flex;
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.shoppingcart-name {
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.product {
+    display: flex;
+    padding-top: 2rem;
+    justify-content: space-between;
+    width: 1000px;
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+    padding-left: 1rem;
+}
+
+.product-details {
+    padding: 2rem;
+    display: flex;
+    padding-top: 3.7rem;
+
+
+}
+
+.increse {
+    display: flex;
+
+}
+
+.itemname {
+    display: block;
+    padding-right: 2rem;
+}
+
+.name {
+    font-size: 1.3rem;
+
+}
+
+.Card {
+    display: flex;
+    padding: 4rem;
+    width: 600px;
+}
+
+.fa-solid {
+    color: black;
+    padding-top: 0.9rem;
+}
+
+.fa-solid:hover{
+    color: rgb(121, 121, 121);
+}
+
+.cartitemq {
+    padding-top: 0.6rem;
+}
+
+.price {
+    padding-top: 0.6rem;
+}
+
+.btn {
+    text-decoration: none;
+    color: black;
+}
+
+.btn3{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    
+}
+
+.btn:hover {
+    color: rgb(121, 121, 121);
+}
+
+.totprice {
+    padding-top: 4rem;
+    font-size: 1.3rem;
+}
+
+.btn1:hover {
+    color: #fff;
+    background-color: rgb(121, 121, 121);
+}
+
+.cart-item-name {
+    padding-left: 2rem;
+    padding-top: 0.4rem;
+    font-weight: 600;
+}
+
+.right {
+    width: 290px;
+    padding-top: 2rem;
+    margin-left: 2rem;
+    padding-left: 1rem;
+    height: 250px;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    background-color: rgb(234, 233, 233);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border-radius: 1rem;
+    padding-right: 1rem;
+
+
+}
+
+.left-tot-price {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tot-price {
+    padding-left: 1rem;
+}
+
+.tot-button {
+    padding-top: 2rem;
+}
+.summury{
+    font-size: 2rem;
+}

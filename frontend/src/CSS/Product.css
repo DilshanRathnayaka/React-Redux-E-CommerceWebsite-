@@ -1,0 +1,31 @@
+.product-image1{
+    width: 400px;
+    height: 500px;
+}
+.product-main{
+    display: flex;
+    padding: 5rem;
+}
+.product-right{
+ 
+padding-left: 4rem;
+width: 900px;
+
+}
+.p-name{
+    font-size: 2rem;
+    text-align: center;
+}
+.p-price{
+    font-size: 1.4rem;
+    padding-left: 4rem;
+    padding-top: 4rem;
+}
+.p-desc{
+    padding-left: 4rem;
+    padding-top: 1rem;
+}
+.btn1-class{
+    text-align: end;
+    padding-top: 3rem;
+}
