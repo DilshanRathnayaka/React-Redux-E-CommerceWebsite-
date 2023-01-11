@@ -1,4 +1,4 @@
-# React-Redux-E-CommerceWebsite-
+# React-Redux-E-CommerceWebsite
 # Home
 ![Screenshot 2023-01-12 012356](https://user-images.githubusercontent.com/63228248/211907738-3b9907dd-de05-4a52-9ff9-3d97b7c53c0d.png)
 # Login Register
