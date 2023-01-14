@@ -53,7 +53,7 @@ function Homescreen() {
               return (
                 
                 <div class="card" key={product._id}>
-                 <a href=""> <img src={product.image} alt="" className='img-fluid' /></a>
+                 <a href="#"> <img src={product.image} alt="image" className='img-fluid' /></a>
                  
                   <div class="card-body">
                     <h5 class="card-title">{product.name}</h5>

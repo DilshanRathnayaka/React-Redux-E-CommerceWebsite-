@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "![Screenshot 2023-01-12 012356](https://user-images.githubusercontent.com/63228248/211907738-3b9907dd-de05-4a52-9ff9-3d97b7c53c0d.png)\r # Login Register\r ![Screenshot 2023-01-12 012407](https://user-images.githubusercontent.com/63228248/211907829-4d8b089e-61c6-4e66-a41f-13ef8d3a781f.png)\r ![Screenshot 2023-01-12 012421](https://user-images.githubusercontent.com/63228248/211907835-8fa67ae9-5060-43d0-a8af-8c1e623baa0d.png)\r # product\r ![Screenshot 2023-01-12 012436](https://user-images.githubusercontent.com/63228248/211907878-fab37ae1-fc4a-4ea7-a2cd-1a98dc88e42f.png)\r # Cart\r ![Screenshot 2023-01-12 012454](https://user-images.githubusercontent.com/63228248/211907915-04f73a5c-e704-4fe9-8e6e-66ada4a27e24.png)",
+  "main": "index.js",
+  "scripts": {
+    "client": "npm start --prefix frontend",
+    "server": "npm start --prefix backend",
+    "start": "concurrently \"npm run client\" \"npm run server\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DilshanRathnayaka/React-Redux-E-CommerceWebsite-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DilshanRathnayaka/React-Redux-E-CommerceWebsite-/issues"
+  },
+  "homepage": "https://github.com/DilshanRathnayaka/React-Redux-E-CommerceWebsite-#readme",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
